@@ -114,3 +114,10 @@ media/
 # **/migrations/**
 # !**/migrations
 # !**/migrations/__init__.py
+# Project
+.idea/
+.vscode/
+db.sqlite3
+staticfiles/
+media/
+.ruff_cache/
